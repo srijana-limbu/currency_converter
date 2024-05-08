@@ -1,6 +1,7 @@
 # <h2> Currency Converter App</h2>
 
 #This app allows user to enter an amount and select currencies for conversion.It fetches the exchange rate and displays the converted value.
+
 #API used: https://www.exchangerate-api.com/
 
 Output
