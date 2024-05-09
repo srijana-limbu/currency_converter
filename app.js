@@ -1,5 +1,3 @@
-//const BASE_URL = "https://v6.exchangerate-api.com";
-
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 
@@ -10,9 +8,7 @@ const msg = document.querySelector(".msg");
 
 
 
-// for(code in countryList) {
-//     console.log(code);
-// };
+
 const countryList = {
     AED: "AE",
     AFN: "AF",
